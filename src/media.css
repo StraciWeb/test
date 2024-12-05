@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .product__cart img {
+        max-width: 150px;
+      }
+
+      .product__cart {
+        align-items: center;
+      }
+}
